@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { getApi, postApi, putApi } from '../../API/CallAPI';
+import { getApi, postApi, putApi } from '../../api/callApi.js';
 import { notify } from '../../utils/helper';
 import {
   clearUser,
