@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { deleteApi, getApi } from '../../API/CallAPI';
+import { deleteApi, getApi } from '../../api/callApi.js';
 import { notify } from '../../utils/helper';
 import {
   dashboardData,

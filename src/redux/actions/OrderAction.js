@@ -1,4 +1,4 @@
-import { postApi } from '../../API/CallAPI';
+import { postApi } from '../../api/callApi.js';
 import { notify } from '../../utils/helper';
 import {
   orderFailure,
